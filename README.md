@@ -199,8 +199,8 @@ jupyter notebook ecommerce.ipynb
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
-LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+GitHub: (https://github.com/jadhavatharv156-hub)
+LinkedIn: (https://www.linkedin.com/in/atharv-jadhav-9a4989280/)
 
 ---
 
